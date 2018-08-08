@@ -3,7 +3,7 @@
 
 Thank you for applying for a job at Ultimaker. To be able to evaluate your software engineering skills, we would like you to complete this coding challenge. 
 
-The challenge consists of some basic exercise to test your knowledge of different patterns and architectures in software engineer, and should not take longer than 2 hours. Please read through the entire document before starting your work.
+The challenge consists of some basic exercise to test your knowledge of different patterns and architectures in software engineering, and should not take longer than 2 hours. Please read through the entire document before starting your work.
 
 ## Challenge
 Create a new project, and implement the following patterns and/or architectures from scratch:

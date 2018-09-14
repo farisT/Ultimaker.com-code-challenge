@@ -1,0 +1,15 @@
+.widget {
+    position: absolute;
+    left:70%;
+    top: 45%;
+    &__city {
+        font-weight: 800;
+        font-size: 20px;
+    }
+}
+.temperature {
+    font-size: 55px;
+    &__icon {
+        width:40%;
+    }
+}

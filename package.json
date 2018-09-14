@@ -4,7 +4,8 @@
   "description": "Thank you for applying for a job at Ultimaker. To be able to evaluate your software engineering skills, we would like you to complete this coding challenge.",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --mode development --devtool inline-source-map --hot"
+    "start": "webpack-dev-server --mode development --devtool inline-source-map --hot",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
